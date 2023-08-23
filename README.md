@@ -1,5 +1,5 @@
 # Django_Rest_Framework
-This projects includes,
+This repository contains,
 1. APIView
 2. Serializers
 3. Nested Serializers
