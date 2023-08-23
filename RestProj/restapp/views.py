@@ -104,6 +104,7 @@ class RegisterUser(APIView):
     
 
 class StudentAPI(APIView):
+    """Authentication validators"""
     authentication_classes = [TokenAuthentication]
     permission_classes = [IsAuthenticated]
     
